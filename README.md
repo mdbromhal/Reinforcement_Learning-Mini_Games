@@ -1,6 +1,8 @@
 # Reinforcement_Learning-Mini_Games
 ABSTRACT: Playing Cartpole &amp; Breakout with OpenAI Gym
 
+Source: https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/
+
 - Reinforcement learning = type of machine learning
 - The agent learns by interacting with its environment
   - It receives rewards when it does the action we want it to do
